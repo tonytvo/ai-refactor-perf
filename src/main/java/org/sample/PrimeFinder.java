@@ -1,8 +1,5 @@
 package org.sample;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class PrimeFinder {
     public static boolean isPrime(int n) {
         if (n <= 1) {
